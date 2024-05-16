@@ -9,7 +9,7 @@
     "@prisma/extension-pulse": "^1.0.1",
     "@types/node": "20.4.8",
     "dotenv": "^16.3.1",
-    "resend": "^0.17.2"
+    "resend": "^3.0.0"
   },
   "devDependencies": {
     "prisma": "5.12.1",
