@@ -12,6 +12,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@prisma/client": "5.15.0-dev.17",
     "next": "14.2.3",
     "react": "18.3.1",
     "react-dom": "18.3.1",
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@types/node": "20.12.11",
     "@types/react": "18.3.2",
+    "prisma": "5.15.0-dev.17",
     "ts-node": "10.9.2",
     "typescript": "5.4.5"
   }
